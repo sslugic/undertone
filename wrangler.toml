@@ -1,9 +1,12 @@
 # getundertone.app: the site in docs/, served by Cloudflare. Deploy with `npx wrangler deploy` after tools/i18n.py.
 name = "undertone-site"
 compatibility_date = "2026-10-01"
+main = "src/worker.js"
 
 [assets]
 directory = "./docs"
+binding = "ASSETS"
+run_worker_first = ["/"]
 
 [[routes]]
 pattern = "getundertone.app"

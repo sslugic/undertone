@@ -422,7 +422,6 @@
  "a_made_up_team_standup_5d541f": "Una reunión diaria inventada, de principio a fin: el resumen previo a la llamada, pistas y recordatorios durante ella, y el resumen, el coaching y Ask después.",
  "sample_names_companies_and_tickets_69d2ae": "Ejemplo. Los nombres, empresas y tickets son inventados.",
  "undertone_demo_video_e14940": "Video de demostración de Undertone",
- "if_you_leave_count_me_12e86d": "Si dejas activado «Cuéntame como usuario»: un aviso anónimo al abrir Undertone por primera vez y como mucho uno a la semana, con un ID aleatorio, la versión de la app, la versión de macOS y el idioma. Al desactivarlo en la configuración inicial o en Ajustes se borra lo enviado.",
  "download_dmg_v1_13_1_3cdffa": "Descargar .dmg <span class=\"ver\">v1.13.1</span>",
  "download_dmg_v1_13_2_69f976": "Descargar .dmg <span class=\"ver\">v1.13.2</span>",
  "ask_like_you_d_ask_b6df10": "Pregunta como le preguntarías a un compañero",
@@ -746,7 +745,6 @@
  "your_calls_keys_and_meetings_2b54e4": "Tus llamadas, claves y reuniones se quedan contigo. Con tu propia IA, lo único que recibe Undertone es un recuento anónimo que puedes desactivar.",
  "no_cookies_we_count_visits_f1c875": "Sin cookies. Contamos visitas, cambios de idioma y clics de descarga con PostHog, sin cookies ni nada que te identifique, y para nada si tienes activado No rastrear. Solo si llegas desde uno de nuestros anuncios y lo permites, Google Ads mide si la visita terminó en una descarga.",
  "usage_stats_7b9e1a": "Estadísticas de uso",
- "if_you_leave_share_anonymous_5a977c": "Si dejas activado «Compartir estadísticas de uso anónimas»: eventos generales como app abierta, reunión iniciada o terminada (su duración y la app de la llamada), resumen escrito y errores, con un ID aleatorio y la versión de la app. Nunca lo que se dijo, títulos de reuniones, nombres, términos del glosario ni claves. Desactívalo en la configuración inicial o en Ajustes.",
  "to_check_what_leaves_your_589ed3": "Para comprobar qué sale de tu Mac, observa el tráfico de Undertone con Little Snitch, LuLu o Proxyman durante una llamada. Solo verás conexiones a la IA que elegiste, a las herramientas que conectaste y, si las dejaste activadas, a los recuentos anónimos. Tu audio nunca sale de tu Mac; solo el texto va a tu IA.",
  "sample_names_companies_and_tickets_766664": "Ejemplo. Los nombres, empresas y tickets son inventados. Activa el sonido para escuchar la narración.",
  "recipes_one_click_prompts_like_c8c995": "Recetas: prompts de un clic como Resumen de mi semana, Preparar el pipeline o Coach personal. Guarda los tuyos y compártelos con tu equipo.",
@@ -783,5 +781,7 @@
  "share_a_call_recap_with_35361e": "Comparte el resumen de una llamada con tu equipo para que el traspaso de ventas a éxito del cliente cumpla cada promesa",
  "install_and_a_sample_meeting_35c2a7": "Instala, y una reunión de ejemplo y una lista breve te guían: conecta tu calendario, haz tu primera pregunta, invita a tu equipo. Luego únete a una llamada y tu resumen, tus tareas y los términos nuevos te esperan en Inicio.",
  "undertone_in_one_minute_terms_4c609c": "Undertone en un minuto: términos explicados durante una llamada con las herramientas de tu equipo, una respuesta sugerida cuando te hacen una pregunta, el resumen y las tareas después, una puntuación y comentarios sobre una llamada con un cliente, y la página del equipo con una guía de incorporación",
- "download_dmg_v1_33_5_da5aa7": "Descargar .dmg <span class=\"ver\">v1.33.5</span>"
+ "only_if_you_turn_on_0e20e8": "Solo si activas «Cuéntame como usuario» (empieza desactivado): un aviso anónimo al abrir Undertone por primera vez y como mucho uno a la semana, con un ID aleatorio, la versión de la app, la versión de macOS y el idioma. Al desactivarlo en la configuración inicial o en Ajustes se borra lo enviado.",
+ "only_if_you_turn_on_351375": "Solo si activas «Compartir estadísticas de uso anónimas» (empieza desactivado): eventos generales como app abierta, reunión iniciada o terminada (su duración y la app de la llamada), resumen escrito y errores, con un ID aleatorio y la versión de la app. Nunca lo que se dijo, títulos de reuniones, nombres, términos del glosario ni claves. Desactívalo en la configuración inicial o en Ajustes.",
+ "download_dmg_v1_33_6_762e55": "Descargar .dmg <span class=\"ver\">v1.33.6</span>"
 }

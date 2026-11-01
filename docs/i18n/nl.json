@@ -423,7 +423,6 @@
  "a_made_up_team_standup_5d541f": "Een verzonnen team-stand-up van begin tot eind: de briefing vóór het gesprek, hints en geheugensteuntjes tijdens, daarna de samenvatting, coaching en Ask.",
  "sample_names_companies_and_tickets_69d2ae": "Voorbeeld. Namen, bedrijven en tickets zijn verzonnen.",
  "undertone_demo_video_e14940": "Demovideo van Undertone",
- "if_you_leave_count_me_12e86d": "Als je ‘Tel mij als gebruiker’ aan laat: één anonieme ping bij de eerste keer openen van Undertone en hooguit één per week, met een willekeurige ID, de appversie, de macOS-versie en de taal. Uitzetten bij de installatie of in Instellingen wist wat er is verstuurd.",
  "download_dmg_v1_13_1_3cdffa": "Download .dmg <span class=\"ver\">v1.13.1</span>",
  "download_dmg_v1_13_2_69f976": "Download .dmg <span class=\"ver\">v1.13.2</span>",
  "ask_like_you_d_ask_b6df10": "Ask, zoals je het een collega zou vragen",
@@ -747,7 +746,6 @@
  "your_calls_keys_and_meetings_2b54e4": "Je gesprekken, sleutels en meetings blijven bij jou. Met je eigen AI ontvangt Undertone zelf alleen anonieme tellingen die je kunt uitzetten.",
  "no_cookies_we_count_visits_f1c875": "Geen cookies. We tellen bezoeken, taalwisselingen en downloadklikken met PostHog, zonder cookies of iets wat jou identificeert, en helemaal niet als Do Not Track aan staat. Alleen als je via een van onze advertenties binnenkomt en dat toestaat, meet Google Ads of het bezoek tot een download heeft geleid.",
  "usage_stats_7b9e1a": "Gebruiksstatistieken",
- "if_you_leave_share_anonymous_5a977c": "Als je ‘Anonieme gebruiksstatistieken delen’ aan laat: grove gebeurtenissen zoals app geopend, meeting gestart of beëindigd (de duur en de belapp), samenvatting geschreven en fouten, met een willekeurige ID en de appversie. Nooit wat er is gezegd, meetingtitels, namen, woordenlijsttermen of sleutels. Zet het uit bij de installatie of in Instellingen.",
  "to_check_what_leaves_your_589ed3": "Om te controleren wat je Mac verlaat, bekijk je tijdens een gesprek het verkeer van Undertone met Little Snitch, LuLu of Proxyman. Je ziet alleen verbindingen met de AI die je koos, de tools die je koppelde en, als je ze aan liet, de anonieme tellingen. Je audio verlaat je Mac nooit; alleen tekst gaat naar je AI.",
  "sample_names_companies_and_tickets_766664": "Voorbeeld. Namen, bedrijven en tickets zijn verzonnen. Zet het geluid aan om de voice-over te horen.",
  "recipes_one_click_prompts_like_c8c995": "Recepten: prompts met één klik, zoals Mijn week samenvatten, Pipeline voorbereiden of Coach me. Bewaar je eigen recepten en deel ze met je team.",
@@ -784,5 +782,7 @@
  "share_a_call_recap_with_35361e": "Deel een gespreksverslag met je team, zodat de overdracht van sales naar customer success elke belofte nakomt",
  "install_and_a_sample_meeting_35c2a7": "Installeer, en een voorbeeldmeeting en een korte checklist wijzen je de weg: koppel je agenda, stel je eerste vraag, nodig je team uit. Neem daarna deel aan een gesprek, en je samenvatting, taken en nieuwe termen staan klaar op Home.",
  "undertone_in_one_minute_terms_4c609c": "Undertone in één minuut: termen uitgelegd tijdens een gesprek vanuit de tools van je team, een voorgesteld antwoord als je een vraag krijgt, daarna de samenvatting en je taken, een score en feedback op een klantgesprek, en de teampagina met een onboardinggids",
- "download_dmg_v1_33_5_da5aa7": "Download .dmg <span class=\"ver\">v1.33.5</span>"
+ "only_if_you_turn_on_0e20e8": "Alleen als je ‘Tel mij als gebruiker’ aanzet (staat eerst uit): één anonieme ping bij de eerste keer openen van Undertone en hooguit één per week, met een willekeurige ID, de appversie, de macOS-versie en de taal. Uitzetten bij de installatie of in Instellingen wist wat er is verstuurd.",
+ "only_if_you_turn_on_351375": "Alleen als je ‘Anonieme gebruiksstatistieken delen’ aanzet (staat eerst uit): grove gebeurtenissen zoals app geopend, meeting gestart of beëindigd (de duur en de belapp), samenvatting geschreven en fouten, met een willekeurige ID en de appversie. Nooit wat er is gezegd, meetingtitels, namen, woordenlijsttermen of sleutels. Zet het uit bij de installatie of in Instellingen.",
+ "download_dmg_v1_33_6_762e55": "Download .dmg <span class=\"ver\">v1.33.6</span>"
 }
