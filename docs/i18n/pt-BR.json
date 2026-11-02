@@ -783,5 +783,5 @@
  "undertone_in_one_minute_terms_4c609c": "Undertone em um minuto: termos explicados durante uma chamada a partir das ferramentas do seu time, uma resposta sugerida quando você recebe uma pergunta, o resumo e as tarefas depois, uma nota e feedback sobre uma chamada com cliente, e a página do time com um guia de onboarding",
  "only_if_you_turn_on_0e20e8": "Só se você ligar “Contar como usuário” (começa desligado): um ping anônimo quando o Undertone é aberto pela primeira vez e no máximo um por semana, com um ID aleatório, a versão do app, a versão do macOS e o idioma. Desativar na configuração ou nos Ajustes apaga o que foi enviado.",
  "only_if_you_turn_on_351375": "Só se você ligar “Compartilhar estatísticas de uso anônimas” (começa desligado): eventos gerais como app aberto, reunião iniciada ou encerrada (a duração e o app da chamada), resumo escrito e erros, com um ID aleatório e a versão do app. Nunca o que foi dito, títulos de reuniões, nomes, termos do glossário ou chaves. Desative na configuração ou nos Ajustes.",
- "download_dmg_v1_33_6_762e55": "Baixar .dmg <span class=\"ver\">v1.33.6</span>"
+ "download_dmg_v1_33_6_762e55": "Baixar .dmg <span class=\"ver\">v1.33.7</span>"
 }

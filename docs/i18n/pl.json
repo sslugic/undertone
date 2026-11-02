@@ -784,5 +784,5 @@
  "undertone_in_one_minute_terms_4c609c": "Undertone w minutę: terminy wyjaśniane w trakcie rozmowy na podstawie narzędzi Twojego zespołu, sugerowana odpowiedź, gdy padnie pytanie, podsumowanie i zadania po rozmowie, ocena i uwagi do rozmowy z klientem oraz strona zespołu z przewodnikiem wdrożeniowym",
  "only_if_you_turn_on_0e20e8": "Tylko jeśli włączysz „Licz mnie jako użytkownika” (domyślnie wyłączone): jeden anonimowy sygnał przy pierwszym otwarciu Undertone i najwyżej jeden tygodniowo, z losowym ID, wersją aplikacji, wersją macOS i językiem. Wyłączenie w konfiguracji lub Ustawieniach usuwa to, co zostało wysłane.",
  "only_if_you_turn_on_351375": "Tylko jeśli włączysz „Udostępniaj anonimowe statystyki użycia” (domyślnie wyłączone): ogólne zdarzenia, takie jak otwarcie aplikacji, rozpoczęcie lub zakończenie spotkania (jego długość i aplikacja do rozmów), napisanie podsumowania i błędy, z losowym ID i wersją aplikacji. Nigdy tego, co powiedziano, tytułów spotkań, nazw, terminów ze słownika ani kluczy. Wyłączysz to w konfiguracji lub w Ustawieniach.",
- "download_dmg_v1_33_6_762e55": "Pobierz .dmg <span class=\"ver\">v1.33.6</span>"
+ "download_dmg_v1_33_6_762e55": "Pobierz .dmg <span class=\"ver\">v1.33.7</span>"
 }
