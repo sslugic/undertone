@@ -783,5 +783,5 @@
  "undertone_in_one_minute_terms_4c609c": "Undertone en un minuto: términos explicados durante una llamada con las herramientas de tu equipo, una respuesta sugerida cuando te hacen una pregunta, el resumen y las tareas después, una puntuación y comentarios sobre una llamada con un cliente, y la página del equipo con una guía de incorporación",
  "only_if_you_turn_on_0e20e8": "Solo si activas «Cuéntame como usuario» (empieza desactivado): un aviso anónimo al abrir Undertone por primera vez y como mucho uno a la semana, con un ID aleatorio, la versión de la app, la versión de macOS y el idioma. Al desactivarlo en la configuración inicial o en Ajustes se borra lo enviado.",
  "only_if_you_turn_on_351375": "Solo si activas «Compartir estadísticas de uso anónimas» (empieza desactivado): eventos generales como app abierta, reunión iniciada o terminada (su duración y la app de la llamada), resumen escrito y errores, con un ID aleatorio y la versión de la app. Nunca lo que se dijo, títulos de reuniones, nombres, términos del glosario ni claves. Desactívalo en la configuración inicial o en Ajustes.",
- "download_dmg_v1_33_6_762e55": "Descargar .dmg <span class=\"ver\">v1.33.7</span>"
+ "download_dmg_v1_33_6_762e55": "Descargar .dmg <span class=\"ver\">v1.33.8</span>"
 }
