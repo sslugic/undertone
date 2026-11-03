@@ -791,5 +791,7 @@
   "if_undertone_helps_you_tell_f3c311": "Undertone이 도움이 된다면 동료나 지인에게 알려 주세요. 공유 하나하나가 큰 힘이 됩니다.",
   "download_dmg_v1_35_0_ce2b34": ".dmg 다운로드 <span class=\"ver\">v1.35.0</span>",
   "download_dmg_v1_35_1_d7afeb": ".dmg 다운로드 <span class=\"ver\">v1.35.1</span>",
-  "download_dmg_v1_35_2_067bd5": ".dmg 다운로드 <span class=\"ver\">v1.35.2</span>"
+  "download_dmg_v1_35_2_067bd5": ".dmg 다운로드 <span class=\"ver\">v1.35.2</span>",
+  "download_dmg_v1_35_4_722136": ".dmg 다운로드 <span class=\"ver\">v1.35.4</span>",
+  "private_ai_included_no_credits_50d049": "프라이빗 AI 포함: 셀 크레딧 없음, 아무것도 저장하지 않음"
 }
