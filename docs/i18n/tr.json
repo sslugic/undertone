@@ -784,5 +784,11 @@
  "undertone_in_one_minute_terms_4c609c": "Bir dakikada Undertone: görüşme sırasında ekibinizin kendi araçlarından açıklanan terimler, size soru sorulduğunda önerilen bir yanıt, sonrasında özet ve görevler, bir müşteri görüşmesi için puan ve geri bildirim, ve uyum rehberli ekip sayfası",
  "only_if_you_turn_on_0e20e8": "Yalnızca “Beni kullanıcı olarak say” seçeneğini açarsan (başta kapalıdır): Undertone ilk açıldığında bir ve haftada en fazla bir anonim sinyal; rastgele bir kimlik, uygulama sürümü, macOS sürümü ve dil ile. Kurulumda veya Ayarlar’da kapatmak, gönderilenleri siler.",
  "only_if_you_turn_on_351375": "Yalnızca “Anonim kullanım istatistiklerini paylaş” seçeneğini açarsan (başta kapalıdır): uygulama açıldı, toplantı başladı veya bitti (süresi ve arama uygulaması), özet yazıldı ve hatalar gibi genel olaylar; rastgele bir kimlik ve uygulama sürümü ile. Konuşulanlar, toplantı başlıkları, isimler, sözlük terimleri veya anahtarlar asla gönderilmez. Kurulumda veya Ayarlar’da kapatabilirsiniz.",
- "download_dmg_v1_33_6_762e55": ".dmg indir <span class=\"ver\">v1.34.0</span>"
+ "download_dmg_v1_33_6_762e55": ".dmg indir <span class=\"ver\">v1.35.0</span>",
+ "free_to_start_macos_26_fee7f4": "Başlamak ücretsiz · Apple silicon'da macOS 26 veya üzeri",
+ "for_you_7e13d9": "Senin için",
+ "for_your_team_7f0ffe": "Ekibin için",
+ "live_hints_recaps_tasks_and_70a127": "Canlı ipuçları, özetler, görevler ve Ask her yapay zekâyla ücretsiz. Pro seni hazırlar. Business ekibini dahil eder.",
+ "if_undertone_helps_you_tell_f3c311": "Undertone işinize yarıyorsa bir iş arkadaşınıza ya da çevrenize anlatın. Her paylaşım fark yaratır.",
+ "download_dmg_v1_35_0_ce2b34": ".dmg indir <span class=\"ver\">v1.35.0</span>"
 }

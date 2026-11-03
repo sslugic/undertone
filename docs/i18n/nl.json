@@ -784,5 +784,11 @@
  "undertone_in_one_minute_terms_4c609c": "Undertone in één minuut: termen uitgelegd tijdens een gesprek vanuit de tools van je team, een voorgesteld antwoord als je een vraag krijgt, daarna de samenvatting en je taken, een score en feedback op een klantgesprek, en de teampagina met een onboardinggids",
  "only_if_you_turn_on_0e20e8": "Alleen als je ‘Tel mij als gebruiker’ aanzet (staat eerst uit): één anonieme ping bij de eerste keer openen van Undertone en hooguit één per week, met een willekeurige ID, de appversie, de macOS-versie en de taal. Uitzetten bij de installatie of in Instellingen wist wat er is verstuurd.",
  "only_if_you_turn_on_351375": "Alleen als je ‘Anonieme gebruiksstatistieken delen’ aanzet (staat eerst uit): grove gebeurtenissen zoals app geopend, meeting gestart of beëindigd (de duur en de belapp), samenvatting geschreven en fouten, met een willekeurige ID en de appversie. Nooit wat er is gezegd, meetingtitels, namen, woordenlijsttermen of sleutels. Zet het uit bij de installatie of in Instellingen.",
- "download_dmg_v1_33_6_762e55": "Download .dmg <span class=\"ver\">v1.34.0</span>"
+ "download_dmg_v1_33_6_762e55": "Download .dmg <span class=\"ver\">v1.35.0</span>",
+ "free_to_start_macos_26_fee7f4": "Gratis om te beginnen · macOS 26 of nieuwer op Apple silicon",
+ "for_you_7e13d9": "Voor jou",
+ "for_your_team_7f0ffe": "Voor je team",
+ "live_hints_recaps_tasks_and_70a127": "Live hints, samenvattingen, taken en Ask blijven gratis met elke AI. Pro bereidt je voor. Business brengt je team erbij.",
+ "if_undertone_helps_you_tell_f3c311": "Helpt Undertone je? Vertel het aan een collega of je netwerk. Elke keer dat je het deelt, helpt.",
+ "download_dmg_v1_35_0_ce2b34": "Download .dmg <span class=\"ver\">v1.35.0</span>"
 }

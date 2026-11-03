@@ -783,5 +783,11 @@
  "undertone_in_one_minute_terms_4c609c": "一分鐘了解 Undertone：通話中根據團隊自己的工具解釋術語，被提問時給出建議回答，通話後的摘要和任務，客戶通話的評分和回饋，以及附入職指南的團隊頁面",
  "only_if_you_turn_on_0e20e8": "僅當你開啟「把我算作使用者」時（預設關閉）：第一次打開 Undertone 時傳送一次匿名訊號，之後每週最多一次，只包含隨機 ID、App 版本、macOS 版本和語言。在設定流程或設定中關閉後，會刪除已傳送的內容。",
  "only_if_you_turn_on_351375": "僅當你開啟「分享匿名使用統計」時（預設關閉）：會傳送 App 開啟、會議開始或結束（時長和通話 App）、摘要完成和錯誤等粗略事件，附帶隨機 ID 和 App 版本。絕不包含說話內容、會議標題、姓名、詞彙表詞條或金鑰。可在設定流程或設定中關閉。",
- "download_dmg_v1_33_6_762e55": "下載 .dmg <span class=\"ver\">v1.34.0</span>"
+ "download_dmg_v1_33_6_762e55": "下載 .dmg <span class=\"ver\">v1.35.0</span>",
+ "free_to_start_macos_26_fee7f4": "免費開始使用 · 搭載 Apple 晶片的 macOS 26 或更新版本",
+ "for_you_7e13d9": "個人版",
+ "for_your_team_7f0ffe": "團隊版",
+ "live_hints_recaps_tasks_and_70a127": "即時提示、摘要、任務和 Ask 搭配任何 AI 都免費。Pro 幫你做好準備。Business 讓團隊一起用。",
+ "if_undertone_helps_you_tell_f3c311": "如果 Undertone 對你有幫助，請告訴同事或你的人脈。每一次分享都很有幫助。",
+ "download_dmg_v1_35_0_ce2b34": "下載 .dmg <span class=\"ver\">v1.35.0</span>"
 }

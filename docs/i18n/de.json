@@ -784,5 +784,11 @@
  "undertone_in_one_minute_terms_4c609c": "Undertone in einer Minute: Begriffe, während eines Calls aus den Tools deines Teams erklärt, eine vorgeschlagene Antwort, wenn du etwas gefragt wirst, danach Zusammenfassung und Aufgaben, eine Bewertung mit Feedback zu einem Kundengespräch, und die Team-Seite mit einem Onboarding-Leitfaden",
  "only_if_you_turn_on_0e20e8": "Nur wenn du „Als Nutzer zählen“ einschaltest (anfangs aus): ein anonymer Ping beim ersten Öffnen von Undertone und höchstens einer pro Woche, mit einer Zufalls-ID, der App-Version, der macOS-Version und der Sprache. Wird es bei der Einrichtung oder in den Einstellungen ausgeschaltet, wird alles Gesendete gelöscht.",
  "only_if_you_turn_on_351375": "Nur wenn du „Anonyme Nutzungsstatistiken teilen“ einschaltest (anfangs aus): grobe Ereignisse wie App geöffnet, Meeting gestartet oder beendet (seine Dauer und die Anruf-App), Zusammenfassung geschrieben und Fehler, mit einer Zufalls-ID und der App-Version. Nie, was gesagt wurde, Meeting-Titel, Namen, Glossarbegriffe oder Schlüssel. Schalte es bei der Einrichtung oder in den Einstellungen aus.",
- "download_dmg_v1_33_6_762e55": ".dmg laden <span class=\"ver\">v1.34.0</span>"
+ "download_dmg_v1_33_6_762e55": ".dmg laden <span class=\"ver\">v1.35.0</span>",
+ "free_to_start_macos_26_fee7f4": "Kostenlos starten · macOS 26 oder neuer auf Apple Silicon",
+ "for_you_7e13d9": "Für dich",
+ "for_your_team_7f0ffe": "Für dein Team",
+ "live_hints_recaps_tasks_and_70a127": "Live-Hinweise, Zusammenfassungen, Aufgaben und Ask bleiben mit jeder KI kostenlos. Pro bereitet dich vor. Business holt dein Team dazu.",
+ "if_undertone_helps_you_tell_f3c311": "Wenn Undertone dir hilft, erzähl es einer Kollegin oder deinem Netzwerk. Jedes Teilen hilft.",
+ "download_dmg_v1_35_0_ce2b34": ".dmg laden <span class=\"ver\">v1.35.0</span>"
 }

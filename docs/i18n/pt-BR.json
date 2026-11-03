@@ -783,5 +783,11 @@
  "undertone_in_one_minute_terms_4c609c": "Undertone em um minuto: termos explicados durante uma chamada a partir das ferramentas do seu time, uma resposta sugerida quando você recebe uma pergunta, o resumo e as tarefas depois, uma nota e feedback sobre uma chamada com cliente, e a página do time com um guia de onboarding",
  "only_if_you_turn_on_0e20e8": "Só se você ligar “Contar como usuário” (começa desligado): um ping anônimo quando o Undertone é aberto pela primeira vez e no máximo um por semana, com um ID aleatório, a versão do app, a versão do macOS e o idioma. Desativar na configuração ou nos Ajustes apaga o que foi enviado.",
  "only_if_you_turn_on_351375": "Só se você ligar “Compartilhar estatísticas de uso anônimas” (começa desligado): eventos gerais como app aberto, reunião iniciada ou encerrada (a duração e o app da chamada), resumo escrito e erros, com um ID aleatório e a versão do app. Nunca o que foi dito, títulos de reuniões, nomes, termos do glossário ou chaves. Desative na configuração ou nos Ajustes.",
- "download_dmg_v1_33_6_762e55": "Baixar .dmg <span class=\"ver\">v1.34.0</span>"
+ "download_dmg_v1_33_6_762e55": "Baixar .dmg <span class=\"ver\">v1.35.0</span>",
+ "free_to_start_macos_26_fee7f4": "Grátis para começar · macOS 26 ou posterior com Apple silicon",
+ "for_you_7e13d9": "Para você",
+ "for_your_team_7f0ffe": "Para sua equipe",
+ "live_hints_recaps_tasks_and_70a127": "Dicas ao vivo, resumos, tarefas e Ask continuam grátis com qualquer IA. O Pro prepara você. O Business traz sua equipe.",
+ "if_undertone_helps_you_tell_f3c311": "Se o Undertone ajuda você, conte para um colega ou para a sua rede. Cada compartilhamento ajuda.",
+ "download_dmg_v1_35_0_ce2b34": "Baixar .dmg <span class=\"ver\">v1.35.0</span>"
 }
