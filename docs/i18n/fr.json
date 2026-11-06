@@ -802,5 +802,14 @@
   "a_team_of_up_to_6c40ce": "Une équipe jusqu’à 3 personnes : partager les comptes rendus et commenter",
   "teams_of_any_size_share_50b023": "Des équipes de toute taille : partagez les comptes rendus avec tous ou par lien",
   "download_dmg_v1_37_0_043fa5": "Télécharger le .dmg <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Comparer"
+  "compare_8d105c": "Comparer",
+  "half_an_hour_before_a_8a7b72": "Une demi-heure avant une réunion, vos points clés sont prêts sans un clic : quoi dire et dans quel ordre, avec le temps pour chaque partie, les éléments de preuve et leur provenance, les décisions à prendre et les objections à prévoir. Undertone consulte d'abord sa mémoire de vos réunions passées, puis chaque source que vous avez connectée.",
+  "1_why_we_re_here_301745": "<b>1. Pourquoi nous sommes là (3 min)</b> Fixer la date de bascule en lecture de Keystone et qui valide.",
+  "2_where_it_stands_8_4ab260": "<b>2. Où en est-on (8 min)</b> Les écritures sont passées sur la nouvelle pile de facturation ; la bascule en lecture est fixée au 14 <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Décisions à prendre :</b> date de bascule (<b>Dev</b>), seuil de rollback (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Objection à prévoir :</b> « Le rollback a-t-il été répété ? » → Oui, deux fois sur staging <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>À ranger d'abord :</b> INFRA-318 est toujours dans le Backlog <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "Vous animez la réunion ? Un court diaporama tiré des points clés est prêt lui aussi",
+  "rewritten_on_its_own_if_4101b3": "Réécrit tout seul si la réunion est déplacée, si l'invitation change ou s'il y a du nouveau",
+  "a_few_quick_questions_from_f2cbf3": "Quelques questions rapides sur les points clés vérifient que vous êtes prêt"
 }

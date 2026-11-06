@@ -803,5 +803,14 @@
   "a_team_of_up_to_6c40ce": "En fazla 3 kişilik ekip: özetleri paylaşın ve yorum yapın",
   "teams_of_any_size_share_50b023": "Her boyutta ekip: özetleri herkesle veya bağlantıyla paylaşın",
   "download_dmg_v1_37_0_043fa5": ".dmg indir <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Karşılaştır"
+  "compare_8d105c": "Karşılaştır",
+  "half_an_hour_before_a_8a7b72": "Bir toplantıdan yarım saat önce konuşma noktalarınız tek tıklama bile gerekmeden hazır olur: neyi hangi sırayla söyleyeceğiniz, her bölüm için süre, kanıtlar ve nereden geldikleri, gereken kararlar ve beklenen itirazlar. Undertone önce geçmiş toplantılarınıza dair belleğine, sonra bağladığınız her kaynağa bakar.",
+  "1_why_we_re_here_301745": "<b>1. Neden buradayız (3 dk)</b> Keystone için okuma geçişi tarihini ve onayı kimin vereceğini netleştirmek.",
+  "2_where_it_stands_8_4ab260": "<b>2. Son durum (8 dk)</b> Yazma işlemleri yeni faturalama altyapısına taşındı; okuma geçişi 14’üne planlandı <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Gereken kararlar:</b> geçiş tarihi (<b>Dev</b>), geri alma eşiği (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Beklenen itiraz:</b> “Geri alma denendi mi?” → Evet, staging’de iki kez <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>Önce toparlayın:</b> INFRA-318 hâlâ Backlog’da <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "Toplantıyı siz mi yönetiyorsunuz? Konuşma noktalarından hazırlanan kısa bir sunum da hazır",
+  "rewritten_on_its_own_if_4101b3": "Toplantı ertelenirse, davet değişirse veya yeni bir şey olursa kendiliğinden yeniden yazılır",
+  "a_few_quick_questions_from_f2cbf3": "Konuşma noktalarıyla ilgili birkaç hızlı soru hazır olup olmadığınızı denetler"
 }

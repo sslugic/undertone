@@ -802,5 +802,14 @@
   "a_team_of_up_to_6c40ce": "Uma equipe de até 3 pessoas: compartilhe resumos e comente",
   "teams_of_any_size_share_50b023": "Equipes de qualquer tamanho: compartilhe resumos com todos ou por link",
   "download_dmg_v1_37_0_043fa5": "Baixar .dmg <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Comparar"
+  "compare_8d105c": "Comparar",
+  "half_an_hour_before_a_8a7b72": "Meia hora antes de uma reunião, seus pontos de pauta estão prontos sem nenhum clique: o que dizer e em que ordem, com o tempo de cada parte, as evidências e de onde vieram, as decisões necessárias e as objeções a esperar. O Undertone consulta primeiro a memória das suas reuniões passadas e depois cada fonte que você conectou.",
+  "1_why_we_re_here_301745": "<b>1. Por que estamos aqui (3 min)</b> Definir a data da virada de leitura do Keystone e quem aprova.",
+  "2_where_it_stands_8_4ab260": "<b>2. Onde estamos (8 min)</b> As gravações já foram para a nova stack de cobrança; a virada de leitura está marcada para o dia 14 <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Decisões necessárias:</b> data da virada (<b>Dev</b>), limite de rollback (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Objeção esperada:</b> “O rollback foi ensaiado?” → Sim, duas vezes no staging <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>Arrumar antes:</b> o INFRA-318 ainda está no Backlog <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "Vai conduzir a reunião? Uma apresentação curta feita a partir dos pontos de pauta também fica pronta",
+  "rewritten_on_its_own_if_4101b3": "É reescrito sozinho se a reunião mudar de horário, o convite mudar ou houver algo novo",
+  "a_few_quick_questions_from_f2cbf3": "Algumas perguntas rápidas sobre os pontos de pauta confirmam que você está preparado"
 }

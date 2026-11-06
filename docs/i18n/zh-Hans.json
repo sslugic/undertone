@@ -802,5 +802,14 @@
   "a_team_of_up_to_6c40ce": "最多 3 人的团队：分享纪要并评论",
   "teams_of_any_size_share_50b023": "任意规模的团队：与所有人或通过链接分享纪要",
   "download_dmg_v1_37_0_043fa5": "下载 .dmg <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "对比"
+  "compare_8d105c": "对比",
+  "half_an_hour_before_a_8a7b72": "会议开始前半小时，你的发言要点无需点击就已备好：先说什么后说什么、每部分的用时、依据及其来源、需要做的决定，以及可能遇到的异议。Undertone 先查看它对你过往会议的记忆，再查看你连接的每个来源。",
+  "1_why_we_re_here_301745": "<b>1. 为什么开这个会（3 分钟）</b> 敲定 Keystone 读取切换的日期以及由谁签字确认。",
+  "2_where_it_stands_8_4ab260": "<b>2. 目前进展（8 分钟）</b> 写入已迁到新的计费系统；读取切换定在 14 号 <span class=\"s\">[Jira INFRA-311]</span>。",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>需要决定：</b>切换日期（<b>Dev</b>）、回滚阈值（<b>Maya</b>）。",
+  "objection_to_expect_is_rollback_ae8348": "<b>可能的异议：</b>“回滚演练过吗？”→ 演练过，在预发环境做了两次 <span class=\"s\">[Notion: Keystone rollback]</span>。",
+  "tidy_up_first_infra_318_f11c92": "<b>先处理：</b>INFRA-318 还在 Backlog 里 <span class=\"s\">[Jira]</span>。",
+  "running_the_meeting_a_short_1ce2b6": "由你主持会议？用发言要点生成的简短演示文稿也已备好",
+  "rewritten_on_its_own_if_4101b3": "会议改期、邀请变更或有新内容时，会自动重写",
+  "a_few_quick_questions_from_f2cbf3": "围绕发言要点的几个快速问题，帮你确认准备就绪"
 }

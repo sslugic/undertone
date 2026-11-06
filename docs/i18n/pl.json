@@ -803,5 +803,14 @@
   "a_team_of_up_to_6c40ce": "Zespół do 3 osób: udostępnianie podsumowań i komentarze",
   "teams_of_any_size_share_50b023": "Zespoły dowolnej wielkości: udostępniaj podsumowania wszystkim lub przez link",
   "download_dmg_v1_37_0_043fa5": "Pobierz .dmg <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Porównanie"
+  "compare_8d105c": "Porównanie",
+  "half_an_hour_before_a_8a7b72": "Pół godziny przed spotkaniem Twoje punkty do omówienia są gotowe bez jednego kliknięcia: co powiedzieć i w jakiej kolejności, z czasem na każdą część, dowody i skąd pochodzą, potrzebne decyzje oraz zarzuty, których możesz się spodziewać. Undertone najpierw zagląda do pamięci o Twoich dawnych spotkaniach, a potem do każdego podłączonego źródła.",
+  "1_why_we_re_here_301745": "<b>1. Po co się spotykamy (3 min)</b> Ustalić datę przełączenia odczytu dla Keystone i kto to zatwierdza.",
+  "2_where_it_stands_8_4ab260": "<b>2. Na czym stoimy (8 min)</b> Zapisy przeniesiono na nowy stos rozliczeniowy; przełączenie odczytu zaplanowano na 14. <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Potrzebne decyzje:</b> data przełączenia (<b>Dev</b>), próg wycofania zmian (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Spodziewany zarzut:</b> „Czy wycofanie było przećwiczone?” → Tak, dwa razy na stagingu <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>Najpierw uporządkuj:</b> INFRA-318 nadal tkwi w Backlogu <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "Prowadzisz spotkanie? Krótka prezentacja przygotowana z punktów do omówienia też jest gotowa",
+  "rewritten_on_its_own_if_4101b3": "Przepisuje się sam, gdy spotkanie się przesunie, zmieni się zaproszenie lub pojawi się coś nowego",
+  "a_few_quick_questions_from_f2cbf3": "Kilka szybkich pytań o punkty do omówienia sprawdza, czy jesteś gotów"
 }

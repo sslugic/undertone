@@ -803,5 +803,14 @@
   "a_team_of_up_to_6c40ce": "Ein Team mit bis zu 3 Personen: Zusammenfassungen teilen und kommentieren",
   "teams_of_any_size_share_50b023": "Teams jeder Größe: Zusammenfassungen mit allen oder per Link teilen",
   "download_dmg_v1_37_0_043fa5": ".dmg laden <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Vergleich"
+  "compare_8d105c": "Vergleich",
+  "half_an_hour_before_a_8a7b72": "Eine halbe Stunde vor einem Meeting liegen deine Gesprächspunkte ohne Klick bereit: was du in welcher Reihenfolge sagst, mit Zeit für jeden Teil, die Belege samt Herkunft, die nötigen Entscheidungen und die zu erwartenden Einwände. Undertone sucht zuerst in seinem Gedächtnis an deine bisherigen Meetings, dann in jeder Quelle, die du verbunden hast.",
+  "1_why_we_re_here_301745": "<b>1. Warum wir hier sind (3 Min.)</b> Das Datum für die Lese-Umstellung von Keystone festlegen und klären, wer sie freigibt.",
+  "2_where_it_stands_8_4ab260": "<b>2. Stand der Dinge (8 Min.)</b> Schreibvorgänge sind auf den neuen Billing-Stack umgezogen; die Lese-Umstellung ist für den 14. angesetzt <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Zu entscheiden:</b> Umstellungsdatum (<b>Dev</b>), Rollback-Schwelle (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Zu erwartender Einwand:</b> „Ist der Rollback geprobt?“ → Ja, zweimal auf Staging <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>Vorher aufräumen:</b> INFRA-318 steht noch im Backlog <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "Du leitest das Meeting? Eine kurze Präsentation aus den Gesprächspunkten liegt ebenfalls bereit",
+  "rewritten_on_its_own_if_4101b3": "Wird von selbst neu geschrieben, wenn das Meeting verschoben wird, sich die Einladung ändert oder es etwas Neues dazu gibt",
+  "a_few_quick_questions_from_f2cbf3": "Ein paar kurze Fragen zu den Gesprächspunkten zeigen, ob du bereit bist"
 }

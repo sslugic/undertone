@@ -803,5 +803,14 @@
   "a_team_of_up_to_6c40ce": "Een team van maximaal 3 mensen: samenvattingen delen en reageren",
   "teams_of_any_size_share_50b023": "Teams van elke grootte: deel samenvattingen met iedereen of via een link",
   "download_dmg_v1_37_0_043fa5": "Download .dmg <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Vergelijken"
+  "compare_8d105c": "Vergelijken",
+  "half_an_hour_before_a_8a7b72": "Een half uur voor een meeting staan je gesprekspunten klaar zonder één klik: wat je in welke volgorde zegt, met tijd per onderdeel, het bewijs en waar het vandaan komt, de beslissingen die nodig zijn en de bezwaren die je kunt verwachten. Undertone kijkt eerst in zijn geheugen van je eerdere meetings en daarna in elke bron die je koppelt.",
+  "1_why_we_re_here_301745": "<b>1. Waarom we hier zijn (3 min)</b> De datum voor de leesomschakeling van Keystone afspreken en wie die goedkeurt.",
+  "2_where_it_stands_8_4ab260": "<b>2. Hoe het ervoor staat (8 min)</b> Schrijfacties zijn verhuisd naar de nieuwe billingstack; de leesomschakeling staat gepland voor de 14e <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Beslissingen nodig:</b> omschakeldatum (<b>Dev</b>), rollbackdrempel (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Te verwachten bezwaar:</b> “Is de rollback geoefend?” → Ja, twee keer op staging <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>Eerst opruimen:</b> INFRA-318 staat nog in de Backlog <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "Leid je de meeting? Een korte presentatie op basis van de gesprekspunten staat ook klaar",
+  "rewritten_on_its_own_if_4101b3": "Schrijft zichzelf opnieuw als de meeting verschuift, de uitnodiging verandert of er iets nieuws is",
+  "a_few_quick_questions_from_f2cbf3": "Een paar snelle vragen over de gesprekspunten checken of je er klaar voor bent"
 }

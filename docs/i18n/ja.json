@@ -803,5 +803,14 @@
   "a_team_of_up_to_6c40ce": "最大3人のチーム:要約の共有とコメント",
   "teams_of_any_size_share_50b023": "人数無制限のチーム:要約を全員またはリンクで共有",
   "download_dmg_v1_37_0_043fa5": ".dmgをダウンロード <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "比較"
+  "compare_8d105c": "比較",
+  "half_an_hour_before_a_8a7b72": "ミーティングの30分前には、クリックしなくても話すポイントが用意されています。何をどの順で話すか、各パートの時間、根拠とその出どころ、必要な決定、予想される反論まで。Undertone はまず過去のミーティングの記憶を調べ、そのあと連携したすべてのソースを確認します。",
+  "1_why_we_re_here_301745": "<b>1. 今日の目的（3 分）</b> Keystone の読み取り切り替え日と、承認者を決める。",
+  "2_where_it_stands_8_4ab260": "<b>2. 現状（8 分）</b> 書き込みは新しい請求基盤に移行済み。読み取りの切り替えは 14 日の予定です <span class=\"s\">[Jira INFRA-311]</span>。",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>必要な決定：</b> 切り替え日（<b>Dev</b>）、ロールバックのしきい値（<b>Maya</b>）。",
+  "objection_to_expect_is_rollback_ae8348": "<b>想定される反論：</b>「ロールバックは試した？」→ はい、ステージングで 2 回 <span class=\"s\">[Notion: Keystone rollback]</span>。",
+  "tidy_up_first_infra_318_f11c92": "<b>先に片付けること：</b> INFRA-318 がまだ Backlog にあります <span class=\"s\">[Jira]</span>。",
+  "running_the_meeting_a_short_1ce2b6": "ミーティングを進行しますか？話すポイントから作った短いスライドも用意されています",
+  "rewritten_on_its_own_if_4101b3": "ミーティングの変更、招待の更新、新しい情報があれば自動で書き直されます",
+  "a_few_quick_questions_from_f2cbf3": "話すポイントをもとにした簡単な質問で、準備ができているか確認できます"
 }

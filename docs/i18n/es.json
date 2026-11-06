@@ -802,5 +802,14 @@
   "a_team_of_up_to_6c40ce": "Un equipo de hasta 3 personas: compartir resúmenes y comentar",
   "teams_of_any_size_share_50b023": "Equipos de cualquier tamaño: comparte resúmenes con todos o por enlace",
   "download_dmg_v1_37_0_043fa5": "Descargar .dmg <span class=\"ver\">v1.37.0</span>",
-  "compare_8d105c": "Comparar"
+  "compare_8d105c": "Comparar",
+  "half_an_hour_before_a_8a7b72": "Media hora antes de una reunión, tus puntos a tratar están listos sin hacer clic: qué decir y en qué orden, con tiempo para cada parte, las pruebas y de dónde salen, las decisiones necesarias y las objeciones que cabe esperar. Undertone consulta primero su memoria de tus reuniones anteriores y después cada fuente que conectes.",
+  "1_why_we_re_here_301745": "<b>1. Por qué estamos aquí (3 min)</b> Acordar la fecha del cambio de lectura de Keystone y quién da el visto bueno.",
+  "2_where_it_stands_8_4ab260": "<b>2. Cómo está la cosa (8 min)</b> Las escrituras ya pasaron al nuevo sistema de facturación; el cambio de lectura está fijado para el 14 <span class=\"s\">[Jira INFRA-311]</span>.",
+  "decisions_needed_cutover_date_dev_c714bc": "<b>Decisiones necesarias:</b> fecha del cambio (<b>Dev</b>), umbral de reversión (<b>Maya</b>).",
+  "objection_to_expect_is_rollback_ae8348": "<b>Objeción previsible:</b> «¿Se ha ensayado la reversión?» → Sí, dos veces en staging <span class=\"s\">[Notion: Keystone rollback]</span>.",
+  "tidy_up_first_infra_318_f11c92": "<b>Antes, ordenar:</b> INFRA-318 sigue en el Backlog <span class=\"s\">[Jira]</span>.",
+  "running_the_meeting_a_short_1ce2b6": "¿Diriges la reunión? También tienes lista una presentación breve hecha a partir de los puntos a tratar",
+  "rewritten_on_its_own_if_4101b3": "Se reescribe sola si la reunión cambia de hora, la invitación se modifica o hay algo nuevo",
+  "a_few_quick_questions_from_f2cbf3": "Unas preguntas rápidas sobre los puntos a tratar comprueban que estás listo"
 }

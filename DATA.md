@@ -9,7 +9,7 @@ Dates are ISO 8601 strings. IDs are UUIDs. Formats for the main files are in [sc
 | `meetings/<id>.json` | One file per meeting: title, app, start and end, attendees, transcript lines (time, text, and `"You"` for your microphone), hints, context brought up for questions put to you, the recap, answer reviews and score, the in-call chat, and the follow-up draft. [Schema](schemas/meeting.schema.json) |
 | `tasks.json` | Your tasks: title, why, deadline as it was said, priority, status, the meeting it came from, and its space. [Schema](schemas/task.schema.json) |
 | `context-index.json` | Background context: a short brief with sources for each open task and recent meeting, and when it was gathered. [Schema](schemas/context-brief.schema.json) |
-| `briefings.json` | Briefings written before upcoming meetings: event title, start, attendees, the briefing text and the short readiness quiz written from it. |
+| `briefings.json` | Briefings written before upcoming meetings: event title, start, attendees, the short briefing, the talking points with the names of the sources they cite, a fingerprint of what they were written from (to rewrite them when the meeting changes), the id of the slide deck in `archive.json` when you present, and the short readiness quiz. |
 | `people.json` | What your tools say about people you meet: name, email and a short note with sources. Only for people you looked up. |
 | `memory.json` | What Undertone learned from past meetings: confirmed terms and their meanings, recap points and action items, and how often each attendee came up. |
 | `spaces.json` | Your spaces: name, description and colour. |
